@@ -44,7 +44,7 @@ def build_packet():
     data = struct.pack("d", time.time())
 
     # Calculate checksum from header and data, then append
-    icmp_checksum = checksum(''.join(map(chr, header + data))) # Correction from Bridget
+    icmp_checksum = checksum(''.join(map(chr, header + data))) # Correction
 
     # Construct header with relevant checksum and information 
     header = struct.pack("bbHHh", icmp_type, icmp_code, htons(icmp_checksum), icmp_id, icmp_seq)
