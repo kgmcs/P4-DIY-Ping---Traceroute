@@ -1,0 +1,203 @@
+Kylas-MacBook-Air:P4 kygamcs$ sudo python3 ICMPtraceroute.py smith.edu
+Password:
+ 1. Hostname not available, rtt=11 ms, 131.229.141.254
+ 2. Hostname not available, rtt=16 ms, 131.229.11.142
+ 3. bouncenode01.smith.edu, rtt=3 ms, 131.229.65.117
+Kylas-MacBook-Air:P4 kygamcs$ sudo python3 ICMPtraceroute.py harvard.edu
+ 1. Hostname not available, rtt=8 ms, 131.229.141.254
+ 2. Hostname not available, rtt=12 ms, 131.229.11.142
+ 3. Hostname not available, rtt=18 ms, 131.229.10.104
+ 4. Hostname not available, rtt=5 ms, 134.241.249.33
+ 5. Hostname not available, rtt=8 ms, 69.16.1.33
+ 6. Hostname not available, rtt=8 ms, 69.16.0.9
+ 7. be4691.rcr51.orh01.atlas.cogentco.com, rtt=7 ms, 38.104.218.13
+ 8. be2731.ccr32.bos01.atlas.cogentco.com, rtt=8 ms, 154.54.41.129
+ 9. Hostname not available, rtt=8 ms, 38.140.158.82
+ 10. Hostname not available, rtt=8 ms, 151.101.194.133
+Kylas-MacBook-Air:P4 kygamcs$ sudo python3 ICMPtraceroute.py chicago.gov
+ 1. Hostname not available, rtt=4 ms, 131.229.141.254
+ 2. Hostname not available, rtt=20 ms, 131.229.11.142
+ 3. Hostname not available, rtt=21 ms, 131.229.10.104
+ 4. Hostname not available, rtt=3 ms, 134.241.249.33
+ 5. Hostname not available, rtt=2 ms, 69.16.1.33
+ 6. umassnet-cps2-nox-mghpcc-gw1.nox.org, rtt=4 ms, 18.2.136.89
+ 7. Hostname not available, rtt=7 ms, 192.5.89.57
+ 8. ae4.ecx-bos2.netarch.akamai.com, rtt=10 ms, 206.53.143.2
+ 9. a23-40-60-154.deploy.static.akamaitechnologies.com, rtt=7 ms, 23.40.60.154
+Kylas-MacBook-Air:P4 kygamcs$ sudo python3 ICMPtraceroute.py lacity.gov
+ 1. Hostname not available, rtt=10 ms, 131.229.141.254
+ 2. Hostname not available, rtt=73 ms, 131.229.11.142
+ 3. Hostname not available, rtt=21 ms, 131.229.10.104
+ 4. Hostname not available, rtt=3 ms, 134.241.249.33
+ 5. Hostname not available, rtt=2 ms, 69.16.1.33
+ 6. ae6-201.cr1-bos1.ip4.gtt.net, rtt=6 ms, 65.175.24.205
+ 7. ae24.cr4-nyc6.ip4.gtt.net, rtt=61 ms, 213.200.121.6
+ 8. ip4.gtt.net, rtt=12 ms, 98.124.184.66
+ 9. ae2.r02.lga01.icn.netarch.akamai.com, rtt=12 ms, 23.203.156.40
+ * * * Request timed out.
+ * * * Request timed out.
+ 11. ae9.r22.iad04.icn.netarch.akamai.com, rtt=18 ms, 23.32.63.169
+ 12. ae6.r22.iad02.mag.netarch.akamai.com, rtt=18 ms, 23.209.170.86
+ 13. ae1.r23.iad04.ien.netarch.akamai.com, rtt=18 ms, 23.209.170.111
+ 14. ae36.r03.border101.iad03.fab.netarch.akamai.com, rtt=20 ms, 23.203.152.147
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ 18. a23-212-251-24.deploy.static.akamaitechnologies.com, rtt=19 ms, 23.212.251.24
+Kylas-MacBook-Air:P4 kygamcs$ sudo python3 ICMPtraceroute.py lacity.gov
+ 1. Hostname not available, rtt=6 ms, 131.229.141.254
+ 2. Hostname not available, rtt=39 ms, 131.229.11.142
+ 3. Hostname not available, rtt=20 ms, 131.229.10.104
+ 4. Hostname not available, rtt=2 ms, 134.241.249.33
+ 5. Hostname not available, rtt=2 ms, 69.16.1.33
+ 6. ae6-201.cr1-bos1.ip4.gtt.net, rtt=6 ms, 65.175.24.205
+ 7. ae24.cr4-nyc6.ip4.gtt.net, rtt=12 ms, 213.200.121.6
+ 8. ip4.gtt.net, rtt=11 ms, 98.124.184.66
+ 9. ae2.r02.lga01.icn.netarch.akamai.com, rtt=11 ms, 23.203.156.40
+ * * * Request timed out.
+ * * * Request timed out.
+ 11. ae9.r22.iad04.icn.netarch.akamai.com, rtt=18 ms, 23.32.63.169
+ 12. ae6.r22.iad02.mag.netarch.akamai.com, rtt=18 ms, 23.209.170.86
+ 13. ae1.r23.iad04.ien.netarch.akamai.com, rtt=18 ms, 23.209.170.111
+ 14. ae36.r03.border101.iad03.fab.netarch.akamai.com, rtt=32 ms, 23.203.152.147
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ 18. a23-212-251-24.deploy.static.akamaitechnologies.com, rtt=19 ms, 23.212.251.24
+Kylas-MacBook-Air:P4 kygamcs$ sudo python3 ICMPtraceroute.py columbia.edu
+ 1. Hostname not available, rtt=3 ms, 131.229.141.254
+ 2. Hostname not available, rtt=7 ms, 131.229.11.142
+ 3. Hostname not available, rtt=24 ms, 131.229.10.104
+ 4. Hostname not available, rtt=2 ms, 134.241.249.33
+ 5. Hostname not available, rtt=2 ms, 69.16.1.33
+ 6. umassnet-re2-nox-mghpcc-gw1.nox.org, rtt=4 ms, 18.2.8.89
+ 7. Hostname not available, rtt=13 ms, 192.5.89.53
+ 8. Hostname not available, rtt=15 ms, 192.5.89.34
+ 9. nyc-9208-nox.nysernet.net, rtt=15 ms, 199.109.4.177
+ 10. columbia-nyc-9208.nysernet.net, rtt=15 ms, 199.109.4.14
+ 11. cc-core-1-x-nyser32-gw-1.net.columbia.edu, rtt=15 ms, 128.59.255.5
+ 12. cc-conc-1-x-cc-core-1.net.columbia.edu, rtt=14 ms, 128.59.255.21
+ 13. columbiauniversity.us, rtt=16 ms, 128.59.105.24
+Kylas-MacBook-Air:P4 kygamcs$ sudo python3 ICMPtraceroute.py gov.ie
+ 1. Hostname not available, rtt=8 ms, 131.229.141.254
+ 2. Hostname not available, rtt=8 ms, 131.229.11.142
+ 3. Hostname not available, rtt=24 ms, 131.229.10.104
+ 4. Hostname not available, rtt=2 ms, 134.241.249.33
+ 5. Hostname not available, rtt=2 ms, 69.16.1.33
+ 6. ae6-201.cr1-bos1.ip4.gtt.net, rtt=6 ms, 65.175.24.205
+ 7. ae6.cr3-lon8.ip4.gtt.net, rtt=78 ms, 213.200.112.210
+ 8. ip4.gtt.net, rtt=74 ms, 154.14.69.238
+ 9. ae4.r02.lon01.icn.netarch.akamai.com, rtt=74 ms, 23.210.49.40
+ 10. ae2.r02.lon01.ien.netarch.akamai.com, rtt=74 ms, 23.210.48.41
+ 11. a23-210-48-17.deploy.static.akamaitechnologies.com, rtt=75 ms, 23.210.48.17
+ 12. Hostname not available, rtt=74 ms, 10.207.32.2
+ 13. Hostname not available, rtt=75 ms, 10.207.35.22
+ 14. Hostname not available, rtt=75 ms, 10.207.6.147
+ 15. nb-178-79-175-148.tc.nodebalancer.linode.com, rtt=75 ms, 178.79.175.148
+Kylas-MacBook-Air:P4 kygamcs$ sudo python3 ICMPtraceroute.py unam.mx
+ 1. Hostname not available, rtt=10 ms, 131.229.141.254
+ 2. Hostname not available, rtt=70 ms, 131.229.11.142
+ 3. Hostname not available, rtt=16 ms, 131.229.10.104
+ 4. Hostname not available, rtt=3 ms, 134.241.249.33
+ 5. Hostname not available, rtt=2 ms, 69.16.1.33
+ 6. umassnet-re2-nox-mghpcc-gw1.nox.org, rtt=4 ms, 18.2.8.89
+ 7. nox-mghpcc-gw1-i2-re-chic.nox.org, rtt=8 ms, 192.5.89.254
+ 8. fourhundredge-0-0-0-2.4079.core2.clev.net.internet2.edu, rtt=56 ms, 163.253.1.21
+ 9. fourhundredge-0-0-0-22.4079.core1.clev.net.internet2.edu, rtt=57 ms, 163.253.2.144
+ 10. fourhundredge-0-0-0-2.4079.core1.eqch.net.internet2.edu, rtt=55 ms, 163.253.1.211
+ 11. fourhundredge-0-0-0-1.4079.core1.chic.net.internet2.edu, rtt=58 ms, 163.253.1.206
+ 12. fourhundredge-0-0-0-1.4079.core2.kans.net.internet2.edu, rtt=57 ms, 163.253.2.29
+ 13. fourhundredge-0-0-0-1.4079.core2.denv.net.internet2.edu, rtt=57 ms, 163.253.1.250
+ 14. fourhundredge-0-0-0-1.4079.core2.elpa.net.internet2.edu, rtt=57 ms, 163.253.2.105
+ 15. Hostname not available, rtt=54 ms, 187.251.32.245
+ 16. 201-139-176-146.rniba.cudi.edu.mx, rtt=83 ms, 201.139.176.146
+ 17. Hostname not available, rtt=81 ms, 132.247.254.77
+ 18. Hostname not available, rtt=599 ms, 132.248.133.22
+ 19. 1004-iimas.redunam.unam.mx, rtt=101 ms, 132.247.237.214
+ 20. Hostname not available, rtt=106 ms, 132.248.166.19
+Kylas-MacBook-Air:P4 kygamcs$ sudo python3 ICMPtraceroute.py gov.kg
+ 1. Hostname not available, rtt=4 ms, 131.229.141.254
+ 2. Hostname not available, rtt=15 ms, 131.229.11.142
+ 3. Hostname not available, rtt=17 ms, 131.229.10.104
+ 4. Hostname not available, rtt=2 ms, 134.241.249.33
+ 5. Hostname not available, rtt=3 ms, 69.16.1.33
+ 6. Hostname not available, rtt=9 ms, 69.16.0.9
+ 7. be4691.rcr51.orh01.atlas.cogentco.com, rtt=14 ms, 38.104.218.13
+ 8. be2729.ccr31.bos01.atlas.cogentco.com, rtt=14 ms, 154.54.40.181
+ 9. be2099.ccr41.lon13.atlas.cogentco.com, rtt=71 ms, 154.54.82.33
+ 10. be12194.ccr41.ams03.atlas.cogentco.com, rtt=77 ms, 154.54.56.94
+ 11. be2813.ccr41.fra03.atlas.cogentco.com, rtt=85 ms, 130.117.0.122
+ 12. be2845.rcr22.fra06.atlas.cogentco.com, rtt=92 ms, 154.54.56.190
+ * * * Request timed out.
+ 13. Hostname not available, rtt=658 ms, 149.14.210.146
+ * * * Request timed out.
+ 14. Hostname not available, rtt=122 ms, 185.140.148.155
+ 15. Hostname not available, rtt=164 ms, 5.143.240.34
+ 16. gw4.aknet.kg, rtt=176 ms, 212.112.96.4
+ 17. relay.bishkek.gov.kg, rtt=166 ms, 212.112.98.134
+Kylas-MacBook-Air:P4 kygamcs$ sudo python3 ICMPtraceroute.py msu.ru
+ 1. Hostname not available, rtt=7 ms, 131.229.141.254
+ 2. Hostname not available, rtt=8 ms, 131.229.11.142
+ 3. Hostname not available, rtt=18 ms, 131.229.10.104
+ 4. Hostname not available, rtt=3 ms, 134.241.249.33
+ 5. Hostname not available, rtt=2 ms, 69.16.1.33
+ 6. ae6-201.cr1-bos1.ip4.gtt.net, rtt=6 ms, 65.175.24.205
+ 7. ae0.cr2-bos1.ip4.gtt.net, rtt=7 ms, 89.149.130.30
+ 8. lag-18.bear2.boston1.level3.net, rtt=6 ms, 4.68.37.109
+ * * * Request timed out.
+ * * * Request timed out.
+ 10. carquadrin.bear2.washington111.level3.net, rtt=17 ms, 4.14.99.138
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ 20. Hostname not available, rtt=139 ms, 130.193.63.246
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ * * * Request timed out.
+ 27. Hostname not available, rtt=137 ms, 178.154.243.30
+Kylas-MacBook-Air:P4 kygamcs$ sudo python3 ICMPtraceroute.py seoulsolution.kr
+ 1. Hostname not available, rtt=14 ms, 131.229.141.254
+ 2. Hostname not available, rtt=23 ms, 131.229.11.142
+ 3. Hostname not available, rtt=16 ms, 131.229.10.104
+ 4. Hostname not available, rtt=2 ms, 134.241.249.33
+ 5. Hostname not available, rtt=3 ms, 69.16.1.33
+ 6. ae6-201.cr1-bos1.ip4.gtt.net, rtt=11 ms, 65.175.24.205
+ 7. ae21.cr4-sea2.ip4.gtt.net, rtt=70 ms, 89.149.130.78
+ 8. as4766.cr3-sea2.ip4.gtt.net, rtt=79 ms, 199.229.230.222
+ 9. Hostname not available, rtt=186 ms, 112.174.88.25
+ 10. Hostname not available, rtt=185 ms, 112.174.86.181
+ 11. Hostname not available, rtt=191 ms, 112.174.47.170
+ * * * Request timed out.
+ * * * Request timed out.
+ 13. Hostname not available, rtt=194 ms, 211.38.10.253
+ 14. Hostname not available, rtt=201 ms, 211.38.10.9

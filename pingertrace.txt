@@ -1,0 +1,312 @@
+Kylas-MacBook-Air:P4 kygamcs$ sudo python3 ICMPpinger.py smith.edu
+Password:
+Pinging smith.edu [131.229.65.117] 3 times using Python:
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 57451
+ Packet ID: 33639
+ Sequence: 1
+
+Ping 1 RTT 0.003131866455078125 sec.
+
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 41043
+ Packet ID: 33639
+ Sequence: 1
+
+Ping 2 RTT 0.003178119659423828 sec.
+
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 22242
+ Packet ID: 33639
+ Sequence: 1
+
+Ping 3 RTT 0.011637687683105469 sec.
+
+Kylas-MacBook-Air:P4 kygamcs$ sudo python3 ICMPpinger.py harvard.edu
+Pinging harvard.edu [151.101.66.133] 3 times using Python:
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 35150
+ Packet ID: 33655
+ Sequence: 1
+
+Ping 1 RTT 0.007533073425292969 sec.
+
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 62248
+ Packet ID: 33655
+ Sequence: 1
+
+Ping 2 RTT 0.0076541900634765625 sec.
+
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 26397
+ Packet ID: 33655
+ Sequence: 1
+
+Ping 3 RTT 0.0072939395904541016 sec.
+
+Kylas-MacBook-Air:P4 kygamcs$ sudo python3 ICMPpinger.py chicago.gov
+Pinging chicago.gov [23.55.235.203] 3 times using Python:
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 4061
+ Packet ID: 33664
+ Sequence: 1
+
+Ping 1 RTT 0.014320850372314453 sec.
+
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 3581
+ Packet ID: 33664
+ Sequence: 1
+
+Ping 2 RTT 0.014084100723266602 sec.
+
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 4707
+ Packet ID: 33664
+ Sequence: 1
+
+Ping 3 RTT 0.014312028884887695 sec.
+
+Kylas-MacBook-Air:P4 kygamcs$ sudo python3 ICMPpinger.py lacity.gov
+Pinging lacity.gov [23.39.229.18] 3 times using Python:
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 22198
+ Packet ID: 33691
+ Sequence: 1
+
+Ping 1 RTT 0.02391338348388672 sec.
+
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 39865
+ Packet ID: 33691
+ Sequence: 1
+
+Ping 2 RTT 0.027363061904907227 sec.
+
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 50867
+ Packet ID: 33691
+ Sequence: 1
+
+Ping 3 RTT 0.01835799217224121 sec.
+
+Kylas-MacBook-Air:P4 kygamcs$ sudo python3 ICMPpinger.py columbia.edu
+Pinging columbia.edu [128.59.105.24] 3 times using Python:
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 52787
+ Packet ID: 33706
+ Sequence: 1
+
+Ping 1 RTT 0.01729583740234375 sec.
+
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 23219
+ Packet ID: 33706
+ Sequence: 1
+
+Ping 2 RTT 0.017764806747436523 sec.
+
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 8588
+ Packet ID: 33706
+ Sequence: 1
+
+Ping 3 RTT 0.017299890518188477 sec.
+
+Kylas-MacBook-Air:P4 kygamcs$ sudo python3 ICMPpinger.py gov.ie
+Pinging gov.ie [178.79.175.148] 3 times using Python:
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 33264
+ Packet ID: 33715
+ Sequence: 1
+
+Ping 1 RTT 0.07531309127807617 sec.
+
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 43551
+ Packet ID: 33715
+ Sequence: 1
+
+Ping 2 RTT 0.07554316520690918 sec.
+
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 52943
+ Packet ID: 33715
+ Sequence: 1
+
+Ping 3 RTT 0.07573795318603516 sec.
+
+Kylas-MacBook-Air:P4 kygamcs$ sudo python3 ICMPpinger.py unam.mx
+Pinging unam.mx [132.248.166.17] 3 times using Python:
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 32773
+ Packet ID: 33723
+ Sequence: 1
+
+Ping 1 RTT 0.10302591323852539 sec.
+
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 36544
+ Packet ID: 33723
+ Sequence: 1
+
+Ping 2 RTT 0.1044926643371582 sec.
+
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 41679
+ Packet ID: 33723
+ Sequence: 1
+
+Ping 3 RTT 0.10304427146911621 sec.
+
+Kylas-MacBook-Air:P4 kygamcs$ sudo python3 ICMPpinger.py gov.kg
+Pinging gov.kg [212.112.98.134] 3 times using Python:
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 55683
+ Packet ID: 33735
+ Sequence: 1
+
+Ping 1 RTT 0.16777920722961426 sec.
+
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 3347
+ Packet ID: 33735
+ Sequence: 1
+
+Ping 2 RTT 0.16695308685302734 sec.
+
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 15298
+ Packet ID: 33735
+ Sequence: 1
+
+Ping 3 RTT 0.1680011749267578 sec.
+
+Kylas-MacBook-Air:P4 kygamcs$ sudo python3 ICMPpinger.py msu.ru
+Pinging msu.ru [178.154.243.30] 3 times using Python:
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 63928
+ Packet ID: 33744
+ Sequence: 1
+
+Ping 1 RTT 0.13725900650024414 sec.
+
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 57333
+ Packet ID: 33744
+ Sequence: 1
+
+Ping 2 RTT 0.13762593269348145 sec.
+
+Ping 3 RTT Request timed out. sec.
+
+Kylas-MacBook-Air:P4 kygamcs$ sudo python3 ICMPpinger.py msu.ru
+Pinging msu.ru [178.154.243.30] 3 times using Python:
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 47881
+ Packet ID: 33748
+ Sequence: 1
+
+Ping 1 RTT 0.13745689392089844 sec.
+
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 55648
+ Packet ID: 33748
+ Sequence: 1
+
+Ping 2 RTT 0.13790106773376465 sec.
+
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 46280
+ Packet ID: 33748
+ Sequence: 1
+
+Ping 3 RTT 0.1368119716644287 sec.
+
+Kylas-MacBook-Air:P4 kygamcs$ sudo python3 ICMPpinger.py seoulsolution.kr
+Pinging seoulsolution.kr [211.38.10.9] 3 times using Python:
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 44727
+ Packet ID: 33760
+ Sequence: 1
+
+Ping 1 RTT 0.19988393783569336 sec.
+
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 35750
+ Packet ID: 33760
+ Sequence: 1
+
+Ping 2 RTT 0.1999659538269043 sec.
+
+ICMP header extracted from IP packet...
+ ICMP Type: 0
+ Code: 0
+ Checksum: 45039
+ Packet ID: 33760
+ Sequence: 1
+
+Ping 3 RTT 0.20046210289001465 sec.
